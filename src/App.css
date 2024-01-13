@@ -22,6 +22,10 @@
   --cardBG:rbg(225,225,235);
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 a{
   text-decoration: none;
 }
@@ -30,7 +34,7 @@ li{
   list-style: none;
 }
 
-.sction{
+.section{
   padding: 4rem 0 2rem;
 }
 
@@ -85,3 +89,20 @@ body{
   background: var(--bodyColor);
 }
 
+
+@media screen and (min-width: 1240px){
+  .container{
+    width: 80% !important;
+    margin: auto;
+  }
+
+  .section{
+    padding: 6rem 0 4rem;
+  }
+}
+
+@media screen and (min-width: 2560px) {
+  body{
+    zoom: 1.7;
+  }
+}
