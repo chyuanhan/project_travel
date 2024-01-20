@@ -6,7 +6,7 @@
 
 This is a one-page website for searching travel packages. The project is built using React.
 
-# Skillsets
+# Build with
 <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="100" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100" height="100" />
 
 ## Available Scripts
