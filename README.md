@@ -6,6 +6,9 @@
 
 This is a one-page website for searching travel packages. The project is built using React.
 
+# Skillsets
+<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="100" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100" height="100" />
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,5 +41,3 @@ This component displays a list of destinations that users can choose from. It in
 ## Keep in Touch Component:
 This component provides a way for users to stay in touch with your website or business.
 
-# Skillsets
-<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="100" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100" height="100" />
