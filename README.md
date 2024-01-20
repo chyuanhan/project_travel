@@ -1,6 +1,6 @@
 ![project_travel_screenshoot](https://github.com/chyuanhan/project_travel/assets/56546556/4a28c97e-d77d-4c21-a300-ffd2d32e36ca)
 
-[Live Demo](https://project-travel-three.vercel.app/)
+>[Live Demo](https://project-travel-three.vercel.app/)
 
 # Introduction
 
